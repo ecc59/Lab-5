@@ -1,5 +1,5 @@
 # Lab-5-groupwork
-*by Ellie Covitz and Johnny Kretzing
+*by Ellie Covitz and Johnny Kretzing*
 
 This program asks the user for their middle name and then also asks the user for an integer.
 If the integer is odd, then the program wil print that the integer is odd.
