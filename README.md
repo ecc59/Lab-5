@@ -9,7 +9,7 @@ Lastly the program will print the middle name inputed.
 ## Using Lab-5-groupwork
 You will want to use this program in order to find out if an integer is either odd or even.
 
-Documentation
+## Documentation
 
 ## How to Contribute
 
