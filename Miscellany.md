@@ -1,0 +1,3 @@
+License: We chose to use the Educational Community License. Seeing as though we are doing this lab exercise for the University of Pittsburgh, it seemed fitting to choose the Educational Community License. We also chose it because we want our project, which is incredibly trivial, to be hypothetically used in classrooms across the world and in the educational community in general.
+
+Code of Conduct: For the Code of Conduct, we went with the Contributor Covenant. This was a pretty easy choice, seeing how it has been used for almost 50,000 projects, and is very thorough, well-written, and most importantly: fair. We also chose it because Coraline Ada Ehmke is a great author, and an even better software developer.
